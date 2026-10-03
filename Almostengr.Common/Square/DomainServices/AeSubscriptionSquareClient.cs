@@ -4,6 +4,7 @@ using Square;
 using Almostengr.Common.Common.DomainServices.Results;
 using Almostengr.Common.Square.DomainServices.Interfaces;
 using Almostengr.Common.Square.Shared;
+using Square.Subscriptions;
 
 namespace Almostengr.Common.Square.DomainServices;
 

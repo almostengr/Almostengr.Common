@@ -3,6 +3,11 @@ using Microsoft.Extensions.Options;
 using Microsoft.Extensions.Logging;
 using ISquareClient = Almostengr.Common.Square.DomainServices.Interfaces.ISquareClient;
 using Almostengr.Common.Square.Shared;
+using Square.Customers;
+using Square.Locations;
+using Square.Orders;
+using Square.Payments;
+using Square.Subscriptions;
 
 namespace Almostengr.Common.Square.DomainServices;
 

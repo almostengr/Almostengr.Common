@@ -4,6 +4,7 @@ using Almostengr.Common.Square.Shared;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Square;
+using Square.Customers;
 
 namespace Almostengr.Common.Square.DomainServices;
 
